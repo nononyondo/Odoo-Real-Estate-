@@ -1,0 +1,56 @@
+.postcode{
+    padding:0px 0px 0px 85px;
+    margin:0px;
+    color:black;
+}
+
+.expt{
+    padding:0px 0px 0px 50px;
+    margin:0px;
+    color:black;
+}
+
+
+.sel{
+    padding:0px 0px 0px 67px;
+    margin:0px;
+    color:black;
+}
+
+
+
+.date_avlty{
+    padding:0px 0px 0px 50px;
+    margin:5px;
+    color:black;
+}
+
+
+
+
+.Dpt{
+    padding:0px;
+    text-align:center;
+}
+
+#btn_desc{
+    background-color:white;
+    color:black;
+}
+
+.underline{
+    text-decoration: underline;
+    position: absolute;
+    
+}
+
+.tags{
+    color:green;
+}
+
+.status{
+   margin-left: 105px; 
+}
+
+
+
